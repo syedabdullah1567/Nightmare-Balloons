@@ -1,5 +1,6 @@
 # Nightmare-Balloons
 
-## Gameplay (Click on image)
+## Gameplay preview (Click on image)
 
-[Click here to watch gameplay video](/Nightmare Balloons.mp4)
+[![Gameplay Video](assets/thumbnail.png)]([youtube-link](https://youtu.be/jR9vPILLJYU))
+
