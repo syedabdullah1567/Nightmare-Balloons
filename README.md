@@ -2,4 +2,4 @@
 
 # Gameplay preview (Click on image)
 
-[![Gameplay Video]()]
+[![Gameplay Video](Nightmare Balloons.mp4)]
