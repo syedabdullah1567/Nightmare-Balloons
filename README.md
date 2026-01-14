@@ -1,5 +1,5 @@
 # Nightmare-Balloons
 
-# Gameplay preview (Click on image)
+## Gameplay (Click on image)
 
-[![Gameplay Video]("Nightmare Balloons.mp4")]
+[Click here to watch gameplay video](Nightmare Balloons.mp4)
